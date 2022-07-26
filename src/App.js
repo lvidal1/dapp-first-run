@@ -1,7 +1,11 @@
+import Bank from './pages/Bank';
+
+
 function App() {
+
+
   return (
-    <div className="App">
-    </div>
+    <Bank />
   );
 }
 
